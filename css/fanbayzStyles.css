@@ -10654,6 +10654,7 @@ blockquote {
 
 h1,h2,h3,h4,h5,h6, button, strong{
   font-family: 'Ginger Bread', sans-serif;
+  
 }
 
 p,span,div, li, a, input{
@@ -10711,8 +10712,8 @@ p,span,div, li, a, input{
 .heText{
 
   font-family: 'Ginger Bread', sans-serif; 
-  line-height: 150px; 
-  font-size: 140px; 
+  line-height: 160px; 
+  font-size: 150px; 
   margin-top: -20px;
 
 }
