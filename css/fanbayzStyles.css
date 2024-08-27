@@ -4474,7 +4474,7 @@ blockquote {
 
 .image-vertical {
   width: 100%;
-  background-image: url("https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg");
+  /* background-image: url("https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg"); */
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -4485,27 +4485,27 @@ blockquote {
 }
 
 .image-vertical.tutorials-image-01 {
-  background-image: url("https://assets-global.website-files.com/6251a5c5a049d73337eaaf68/6251a5c5a049d71704eaafc6_Zerocodegirl_02.jpg");
+  /* background-image: url("https://assets-global.website-files.com/6251a5c5a049d73337eaaf68/6251a5c5a049d71704eaafc6_Zerocodegirl_02.jpg"); */
   background-position: 50%;
   background-size: cover;
 }
 
 .image-vertical.support-image-01 {
-  background-image: url("https://assets-global.website-files.com/6251a5c5a049d73337eaaf68/6251a5c5a049d7c0e7eaafe4_LIZ09219%20(1)%20(1).jpg");
+  /* background-image: url("https://assets-global.website-files.com/6251a5c5a049d73337eaaf68/6251a5c5a049d7c0e7eaafe4_LIZ09219%20(1)%20(1).jpg"); */
   background-position: 39% 80%;
   background-repeat: no-repeat;
   background-size: 150%;
 }
 
 .image-vertical.packages-image-01 {
-  background-image: url("https://assets-global.website-files.com/6251a5c5a049d73337eaaf68/6251a5c5a049d71a1beaafc0_zerocodegirl%20photo.jpg");
+  /* background-image: url("https://assets-global.website-files.com/6251a5c5a049d73337eaaf68/6251a5c5a049d71a1beaafc0_zerocodegirl%20photo.jpg"); */
   background-position: 58%;
   background-repeat: no-repeat;
   background-size: 140%;
 }
 
 .image-vertical.shop-accent-c01-image-01 {
-  background-image: url("https://assets-global.website-files.com/6251a5c5a049d73337eaaf68/6251fb26bb70bd224616cb32_Group%206%20(1).jpg");
+  /* background-image: url("https://assets-global.website-files.com/6251a5c5a049d73337eaaf68/6251fb26bb70bd224616cb32_Group%206%20(1).jpg"); */
 }
 
 .image-vertical._100-vh {
@@ -4514,15 +4514,15 @@ blockquote {
 }
 
 .image-vertical.tutorials-image-01 {
-  background-image: url("https://assets-global.website-files.com/6251a5c5a049d73337eaaf68/6269844b5570c98274b029f7_Screenshot%202022-04-27%20at%201.18.39%20PM.jpg");
+  /* background-image: url("https://assets-global.website-files.com/6251a5c5a049d73337eaaf68/6269844b5570c98274b029f7_Screenshot%202022-04-27%20at%201.18.39%20PM.jpg"); */
 }
 
 .image-vertical.opt-in-03-image-01 {
-  background-image: url("https://assets-global.website-files.com/6251a5c5a049d73337eaaf68/6251f9027d3b8c35c9fe767b_Group%2018.jpg");
+  /* background-image: url("https://assets-global.website-files.com/6251a5c5a049d73337eaaf68/6251f9027d3b8c35c9fe767b_Group%2018.jpg"); */
 }
 
 .image-vertical.opt-in-03-image-02 {
-  background-image: url("https://assets-global.website-files.com/6251a5c5a049d73337eaaf68/6251f900d7b31b05845e764f_Group%201.jpg");
+  /* background-image: url("https://assets-global.website-files.com/6251a5c5a049d73337eaaf68/6251f900d7b31b05845e764f_Group%201.jpg"); */
 }
 
 .image-vertical.light-link {
@@ -4804,7 +4804,7 @@ blockquote {
 .full-image-coming-soon {
   width: 100%;
   height: 100%;
-  background-image: url("https://assets-global.website-files.com/6251a5c5a049d73337eaaf68/6251fb26bb70bd224616cb32_Group%206%20(1).jpg");
+  /* background-image: url("https://assets-global.website-files.com/6251a5c5a049d73337eaaf68/6251fb26bb70bd224616cb32_Group%206%20(1).jpg"); */
   background-position: 50%;
   background-size: cover;
   position: absolute;
@@ -4878,17 +4878,17 @@ blockquote {
 }
 
 .image-license.styleguide-unsplash-image-04 {
-  background-image: url("https://assets-global.website-files.com/6251a5c5a049d73337eaaf68/6251f902c25bcbedcc0f9eda_Group%2013.jpg");
+  /* background-image: url("https://assets-global.website-files.com/6251a5c5a049d73337eaaf68/6251f902c25bcbedcc0f9eda_Group%2013.jpg"); */
   background-size: cover;
 }
 
 .image-license.styleguide-unsplash-image-05 {
-  background-image: url("https://assets-global.website-files.com/6251a5c5a049d73337eaaf68/6251f9010c25e7e451ab4cdf_Group%207.jpg");
+  /* background-image: url("https://assets-global.website-files.com/6251a5c5a049d73337eaaf68/6251f9010c25e7e451ab4cdf_Group%207.jpg"); */
   background-size: cover;
 }
 
 .image-license.styleguide-unsplash-image-06 {
-  background-image: url("https://assets-global.website-files.com/6251a5c5a049d73337eaaf68/6251f902204a1cfaea736157_Group%203.jpg");
+  /* background-image: url("https://assets-global.website-files.com/6251a5c5a049d73337eaaf68/6251f902204a1cfaea736157_Group%203.jpg"); */
   background-size: cover;
 }
 
@@ -4933,12 +4933,12 @@ blockquote {
 }
 
 .image-license.styleguide-unsplash-image-12 {
-  background-image: url("https://assets-global.website-files.com/6251a5c5a049d73337eaaf68/6251f90083aa8cc482355b30_Group%208.jpg");
+  /* background-image: url("https://assets-global.website-files.com/6251a5c5a049d73337eaaf68/6251f90083aa8cc482355b30_Group%208.jpg"); */
   background-size: cover;
 }
 
 .image-license.styleguide-unsplash-image-13 {
-  background-image: url("https://assets-global.website-files.com/6251a5c5a049d73337eaaf68/6251f900d7b31b05845e764f_Group%201.jpg");
+  /* background-image: url("https://assets-global.website-files.com/6251a5c5a049d73337eaaf68/6251f900d7b31b05845e764f_Group%201.jpg"); */
   background-size: cover;
 }
 
