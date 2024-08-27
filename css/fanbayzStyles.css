@@ -7110,7 +7110,7 @@ blockquote {
 .image-full {
   width: 100%;
   height: 100%;
-  background-image: url("https://assets-global.website-files.com/6251a5c5a049d73337eaaf68/6251f90117f3847a0c630df1_Group%209.jpg");
+  background-image: url("../img/aboutBanner.png");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -10758,6 +10758,7 @@ p,span,div, li, a, input{
 .heImg{
   margin-top: 30px; 
   height: 100vh;
+  
 }
 
 .catText{
